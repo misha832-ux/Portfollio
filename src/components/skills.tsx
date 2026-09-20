@@ -4,7 +4,7 @@ import { useReveal } from "../hooks/useReveal"
 const SKILL_GROUPS = [
     {
         category: "Languages",
-        items: ["JavaScript", "TypeScript"],
+        items: ["Python", "C", "Java", "JavaScript", "TypeScript"],
     },
     {
         category: "Frontend",
@@ -16,11 +16,11 @@ const SKILL_GROUPS = [
     },
     {
         category: "Database & ORM",
-        items: ["MongoDB", "Mongoose", "Prisma"],
+        items: ["MongoDB", "Mongoose", "Prisma", "Neon", "Drizzle ORM", "Supabase"],
     },
     {
         category: "Tools & Auth",
-        items: ["Git", "BetterAuth", "Zod"],
+        items: ["Git", "GitHub", "BetterAuth", "Zod"],
     },
 ]
 

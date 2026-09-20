@@ -7,6 +7,7 @@ import Education from "./components/education"
 import Projects from "./components/projects"
 import Research from "./components/research"
 import Contact from "./components/contact"
+import Footer from "./components/footer"
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Research/>
           <Contact/>
        </main>
+       <Footer/>
      </div>
   )
 }

@@ -43,7 +43,14 @@
 }
 
 .timeline-institution {
-    color: var(--text);
+    color: var(--text-muted);
     font-weight: 500;
     margin-bottom: 8px;
+}
+
+.timeline-result {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0;
 }
