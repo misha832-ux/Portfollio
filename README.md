@@ -1,6 +1,6 @@
 # Misha's Portfolio
 
-My personal portfolio — built with React and TypeScript, featuring a dark theme, interactive sections for skills, education, projects, and research, and links to my work and contact info.
+My personal portfolio — built with React and TypeScript, featuring a dark theme, interactive sections for skills, education, projects, and research, links to my work and contact info.
 
 **Live site:** [https://misha-portfolio-site.vercel.app/](https://misha-portfolio-site.vercel.app/)
 
