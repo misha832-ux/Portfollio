@@ -12,8 +12,7 @@ export default function About() {
                     <h2 className="section-heading">About Me</h2>
                     <p>Building things for the web and solving real problems through code is what drives me. 
                         Balancing multiple projects alongside coursework has sharpened my time management and coordination skills. 
-                        I've also co-authored a research paper published in the ACM COMPASS 2026 proceedings, 
-                        and I'm always looking for the next challenge worth taking on.</p>
+                        I've also co-authored a research paper published in the ACM COMPASS 2026 proceedings and I'm always looking for the next challenge worth taking on.</p>
                 </div>
             </div>
         </section>
