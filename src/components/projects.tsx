@@ -60,7 +60,7 @@ const PROJECTS: Project[] = [
         githubLink: "https://github.com/misha832-ux/Customer-Category-Classifier.git"
     },
     {
-        title: "Glowtrust Skincare Project",
+        title: "GlowTrust – Trusted Skincare Reviews & Recommendations",
         description: "A skincare e-commerce and routine-recommendation platform with user registration, product wishlist, reviews, and an admin dashboard.",
         tags: ["PHP", "MySQL", "HTML", "CSS"],
         githubLink: "https://github.com/misha832-ux/Glowtrust_skincare_project.git"
