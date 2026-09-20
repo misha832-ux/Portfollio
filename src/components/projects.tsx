@@ -54,7 +54,7 @@ const PROJECTS: Project[] = [
     },
         {
         title: "Customer Category Classifier",
-        description: "A group-assigned machine learning project that I built independently — classifies customers into four segments using KNN, Logistic Regression, and a Neural Network, with SMOTE balancing and full model evaluation.",
+        description: "A machine learning project — classifies customers into four segments using KNN, Logistic Regression, and a Neural Network, with SMOTE balancing and full model evaluation.",
         tags: ["Python", "scikit-learn", "TensorFlow", "Keras", "Pandas", "NumPy"],
         liveLink: "https://colab.research.google.com/github/misha832-ux/Customer-Category-Classifier/blob/main/Group_F.ipynb",
         githubLink: "https://github.com/misha832-ux/Customer-Category-Classifier.git"
