@@ -28,7 +28,7 @@ const PROJECTS: Project[] = [
     },
     {
         title: "AI Assisted Writing Research Tool",
-        description: "AI-Assisted Writing Research Tool is a research data-collection web application designed to study how people write with and without AI assistance.",
+        description: "A research data-collection web application designed to study how people write with and without AI assistance.",
         tags: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript", "Prisma", "Zod"],
         liveLink: "https://p2-diin.onrender.com",
         githubLink: "https://github.com/misha832-ux/AI-Assisted-Writing-Research-Tool.git"
@@ -61,7 +61,7 @@ const PROJECTS: Project[] = [
     },
     {
         title: "GlowTrust – Trusted Skincare Reviews & Recommendations",
-        description: "A skincare e-commerce and routine-recommendation platform with user registration, product wishlist, reviews, and an admin dashboard.",
+        description: "A PHP/MySQL web application for browsing skincare products, getting recommendations based on skin type, reading and leaving product reviews, keeping a personal wishlist, and managing a personal skincare routine. It also includes a separate admin panel for managing products, reviews, and wishlists.",
         tags: ["PHP", "MySQL", "HTML", "CSS"],
         githubLink: "https://github.com/misha832-ux/Glowtrust_skincare_project.git"
     },
