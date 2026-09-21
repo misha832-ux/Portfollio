@@ -37,6 +37,7 @@ const PROJECTS: Project[] = [
         title: "verse4u",
         description: "A Next.js app for browsing Quranic verses organized by how you feel — Happy, Sad, Confused, Tired, Angry, Patience, Gratitude, Fear & Anxiety, and Hope. Users can sign in, browse verses by category, bookmark favorites, copy verses to share, and suggest new verses for an admin to review and approve.",
         tags: ["Next.js", "Neon", "Drizzle ORM", "Tailwind CSS", "TypeScript", "BetterAuth"],
+        liveLink: "https://verse4u.vercel.app",
         githubLink: "https://github.com/misha832-ux/verse4u.git",
         status: "In Development"
     },
