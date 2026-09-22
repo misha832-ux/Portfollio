@@ -19,9 +19,13 @@ const SKILL_GROUPS = [
         items: ["MongoDB", "Mongoose", "Prisma", "Neon", "Drizzle ORM", "Supabase"],
     },
     {
-        category: "Tools & Auth",
-        items: ["Git", "GitHub", "BetterAuth", "Zod"],
+        category: "Auth & Validation",
+        items: ["BetterAuth", "Zod"],
     },
+    {
+        category: "Tools & Platforms",
+        items: ["Git", "GitHub", "Vercel", "Render", "Postman", "Figma", "LaTeX"],
+    }
 ]
 
 export default function Skills() {
